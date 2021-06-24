@@ -11,26 +11,69 @@
      .menu{
       float: right;
       margin: 0 15px;
-  
     }
-    
-    .titel{
+
+    .container {
+      margin-top: 130px ;
+      margin-left: 100px;
+      
+    }
+ .container h1 {
+  position: absolute;
+  left: 750px;
+  top: 340px;
+  color:#C00000;
+  font-family: 'Montserrat', sans-serif;
+ font-size: 50px;
+ }
+
+ .container h2 {
+  position: absolute;
+  left: 750px;
+  top: 403px;
+  color:#C00000;
+  font-size: 45px;
+  font-family: 'Montserrat', sans-serif;
+ }
+.container h3 {
+  position: absolute;
+  left: 750px;
+  top: 442px;
+  color:#C00000;
+  font-size: 45px;
+  font-family: 'Montserrat', sans-serif;
+}
+.container p {
+  position: absolute;
+  left: 750px;
+  top: 540px;
+  color:#C00000;
+  font-size: 30px;
+  width: 41%;
+  text-align: start;
+  font-family: 'Montserrat', sans-serif;
+  color:#4F4F4F;
+
+
+    titel{
+     
       color:#C00000;
-      font-size: 45px;
-      margin-top: 250px;
-      padding: 98px;
       font-family: 'Montserrat', sans-serif;
-  
-    }
-    .subtext1{
-      color:#4F4F4F;;
+      padding: 80px; font-size: 40px;
+    text-align: center;
+    text-align: center;
+    
+    
+
+    .subtext1
+      color:#4F4F4F;
       font-size: 30px;
       position: absolute;
       left: 98px;
       margin-top: -2%;
       font-family: 'Montserrat', sans-serif;
-   }
-   .subtext2{
+
+   .subtext2
     color:#4F4F4F;
     font-size: 30px;
     line-height: 30px;
@@ -38,9 +81,8 @@
     left: 98px;
     margin-top: 26px;
     font-family: 'Montserrat', sans-serif;
-   }
-  
-  .aboutme{
+ 
+    .aboutme
     padding: 80px;
     position: absolute;
     left: 600px;
@@ -52,7 +94,7 @@
   font-family: 'Roboto', sans-serif;
   color: #4F4F4F;
   
-  }
+
   .Myimage {
   float: left;
   margin-top: 10%;
